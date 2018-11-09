@@ -7,6 +7,6 @@
 <title>HELLO APPLICATIONS</title>
 </head>
 <body>
-<p>HRU HELLO APPLICATIONS</p>
+<p>HRU HELLO APPLICATIONS hru</p>
 </body>
 </html>
